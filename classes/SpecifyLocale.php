@@ -1,4 +1,9 @@
 <?php
+/**
+ * FuelPHP Package for SpecifyLocale
+ *
+ * @version    0.5
+ */
 
 namespace SpecifyLocale;
 
